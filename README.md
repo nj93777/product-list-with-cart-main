@@ -9,8 +9,8 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/nj93777/product-list-with-cart-main
+- Live Site URL: https://nj93777.github.io/product-list-with-cart-main/
 
 
 ### Built with
@@ -21,6 +21,3 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
 - CSS Grid
 - Mobile-first workflow
 
-# product-list-with-cart-main
-# product-list-with-cart-main
-# product-list-with-cart-main
